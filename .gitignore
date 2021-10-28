@@ -2,3 +2,7 @@ venv/
 .idea/
 .DS_Store
 *.pyc
+# build
+*.egg-info/
+build/
+dist/
